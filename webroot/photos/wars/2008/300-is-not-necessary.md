@@ -1,5 +1,14 @@
-﻿---
-Date: 2016-03-08
+---
+Date: 2016-03-08 12:20:12 +0300
+Authors:
+    - [Pierre_Killer_666](http://fishki.net/profile/445191/)
+    - Balancer <balancer@balancer.ru>
+Keywords:
+    - Фото
+    - Войны
+    - Россия
+    - Грузия
+    - Пятидневная война
 ---
 
 # «300 не надо, хватит и одного»
